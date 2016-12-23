@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <meta name='description' content=''>
+    <meta name='author' content=''>
+
+    <title>Flight Finder</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href='static/css/bootstrap.min.css' rel='stylesheet'>
+
+    <!-- Custom CSS -->
+    <style>
+    body {
+        padding-top: 70px;
+        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class='navbar navbar-inverse navbar-fixed-top' role='navigation'>
+        <div class='container'>
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class='navbar-header'>
+                <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='#bs-example-navbar-collapse-1'>
+                    <span class='sr-only'>Toggle navigation</span>
+                    <span class='icon-bar'></span>
+                    <span class='icon-bar'></span>
+                    <span class='icon-bar'></span>
+                </button>
+                <a class='navbar-brand' href='/'>Flight Finder</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class='container'>
+         <div class='row'>
+             <div class='col-lg-12 text-center'>
+		 <!-- Results found -->
+                 {% if arrivals or departures %}
+                     <h1>Results for {{form}}</h1>
+		 <!-- Empty form -->
+                 {% elif not form %}
+                     <h1>Please return to the main page and fill in the form.</h1>
+		 <!-- No results found -->
+                 {% else %}
+                     <h1>No results found for {{form}}</h1>
+                 {% endif %}
+                 <br><br>
+             </div>
+         </div>
+     </div>
+
+     <!-- Table -->
+    <div class='container'>
+	<!-- Arrival results found-->
+        {% if arrivals %}
+            <h3>Arrivals</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Flight</th>
+                        <th>Carrier</th>
+                        <th>Destination</th>
+                        <th>Arrival Time</th>
+                        <th>Codeshare</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Add table entry for each result found -->
+                    {% for result in arrivals %}
+                    <tr>
+                        <td>{{result['Flight']}}</td>
+                        <td>{{result['Carrier']}}</td>
+                        <td>{{result['Destination']}}</td>
+                        <td>{{result['Arrival Time']}}</td>
+                        <td>{{result['Codeshare']}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <br><br>
+        {% endif %}
+
+	<!-- Departure results found-->
+        {% if departures %}
+            <h3>Departures</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Flight</th>
+                        <th>Carrier</th>
+                        <th>Destination</th>
+                        <th>Departure Time</th>
+                        <th>Codeshare</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <!-- Add table entry for each result found -->
+                {% for result in departures %}
+                    <tr>
+                        <td>{{result['Flight']}}</td>
+                        <td>{{result['Carrier']}}</td>
+                        <td>{{result['Destination']}}</td>
+                        <td>{{result['Departure Time']}}</td>
+                        <td>{{result['Codeshare']}}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+
+</body>
+
+</html>

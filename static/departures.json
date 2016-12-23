@@ -1,0 +1,4286 @@
+[
+    {
+        "Arrival Time": "05:05",
+        "Destination": "Dakar (DKR)",
+        "Codeshare": "no",
+        "Flight": "SN204",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "05:05",
+        "Destination": "Dakar (DKR)",
+        "Codeshare": "yes",
+        "Flight": "AC6347",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "05:05",
+        "Destination": "Dakar (DKR)",
+        "Codeshare": "yes",
+        "Flight": "LH5705",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "05:05",
+        "Destination": "Dakar (DKR)",
+        "Codeshare": "yes",
+        "Flight": "UA9968",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "05:10",
+        "Destination": "Kinshasa (FIH)",
+        "Codeshare": "no",
+        "Flight": "SN358",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "05:10",
+        "Destination": "Kinshasa (FIH)",
+        "Codeshare": "yes",
+        "Flight": "UA9984",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Ouagadougou (OUA)",
+        "Codeshare": "no",
+        "Flight": "SN256",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Ouagadougou (OUA)",
+        "Codeshare": "yes",
+        "Flight": "LH5547",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Ouagadougou (OUA)",
+        "Codeshare": "yes",
+        "Flight": "UA9978",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Douala (DLA)",
+        "Codeshare": "no",
+        "Flight": "SN372",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Douala (DLA)",
+        "Codeshare": "yes",
+        "Flight": "LX4529",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "05:15",
+        "Destination": "Douala (DLA)",
+        "Codeshare": "yes",
+        "Flight": "UA9905",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "05:45",
+        "Destination": "Beijing (PEK)",
+        "Codeshare": "no",
+        "Flight": "HU491",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "05:45",
+        "Destination": "Beijing (PEK)",
+        "Codeshare": "yes",
+        "Flight": "SN4116",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "06:29",
+        "Destination": "Lagos (LOS)",
+        "Codeshare": "no",
+        "Flight": "ET3725",
+        "Carrier": "Ethiopian Airlines"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Kigali (KGL)",
+        "Codeshare": "no",
+        "Flight": "SN471",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Kigali (KGL)",
+        "Codeshare": "yes",
+        "Flight": "AC6349",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Kigali (KGL)",
+        "Codeshare": "yes",
+        "Flight": "HU8101",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Kigali (KGL)",
+        "Codeshare": "yes",
+        "Flight": "LH5689",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Kigali (KGL)",
+        "Codeshare": "yes",
+        "Flight": "UA9983",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "06:50",
+        "Destination": "Doha (DOH)",
+        "Codeshare": "no",
+        "Flight": "QR195",
+        "Carrier": "Qatar Airways"
+    },
+    {
+        "Arrival Time": "06:55",
+        "Destination": "Accra (ACC)",
+        "Codeshare": "no",
+        "Flight": "SN278",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "06:55",
+        "Destination": "Accra (ACC)",
+        "Codeshare": "yes",
+        "Flight": "AC6381",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "06:55",
+        "Destination": "Accra (ACC)",
+        "Codeshare": "yes",
+        "Flight": "LH5647",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "06:55",
+        "Destination": "Accra (ACC)",
+        "Codeshare": "yes",
+        "Flight": "UA9936",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "07:00",
+        "Destination": "Bangkok (BKK)",
+        "Codeshare": "no",
+        "Flight": "TG934",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "07:00",
+        "Destination": "Bangkok (BKK)",
+        "Codeshare": "yes",
+        "Flight": "SN8602",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "07:00",
+        "Destination": "Bangkok (BKK)",
+        "Codeshare": "yes",
+        "Flight": "TP8368",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "07:10",
+        "Destination": "PuntaCana (PUJ)",
+        "Codeshare": "no",
+        "Flight": "JAF104",
+        "Carrier": "Jetairfly"
+    },
+    {
+        "Arrival Time": "07:15",
+        "Destination": "Dulles (IAD)",
+        "Codeshare": "no",
+        "Flight": "UA950",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "07:15",
+        "Destination": "Dulles (IAD)",
+        "Codeshare": "yes",
+        "Flight": "AC5970",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "07:15",
+        "Destination": "Dulles (IAD)",
+        "Codeshare": "yes",
+        "Flight": "LH9383",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "07:15",
+        "Destination": "Dulles (IAD)",
+        "Codeshare": "yes",
+        "Flight": "SN8802",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "07:20",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "no",
+        "Flight": "SN502",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "07:20",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "LH5621",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "07:20",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "TG6513",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "07:20",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "UA9928",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AddisAbaba (ADD)",
+        "Codeshare": "no",
+        "Flight": "ET3712",
+        "Carrier": "Ethiopian Airlines"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "no",
+        "Flight": "EY57",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "9W6367",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "BT5722",
+        "Carrier": "Air Baltic"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "HM5038",
+        "Carrier": "Air Seychelles"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "KM2130",
+        "Carrier": "Air Malta"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "SK8257",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "SN4102",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "TP6895",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "UL2357",
+        "Carrier": "SriLankan Airlines"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "UX3874",
+        "Carrier": "Air Europa"
+    },
+    {
+        "Arrival Time": "07:30",
+        "Destination": "AbuDhabi (AUH)",
+        "Codeshare": "yes",
+        "Flight": "VA7057",
+        "Carrier": "Virgin Australia"
+    },
+    {
+        "Arrival Time": "07:35",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "no",
+        "Flight": "KL1721",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "07:35",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "9W8551",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "07:35",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "DL9529",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "07:35",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "KQ1721",
+        "Carrier": "Kenya Airways"
+    },
+    {
+        "Arrival Time": "07:50",
+        "Destination": "Berlin (SXF)",
+        "Codeshare": "no",
+        "Flight": "FR162",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "07:50",
+        "Destination": "Newark (EWR)",
+        "Codeshare": "no",
+        "Flight": "UA999",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "07:50",
+        "Destination": "Newark (EWR)",
+        "Codeshare": "yes",
+        "Flight": "AC2464",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "07:50",
+        "Destination": "Newark (EWR)",
+        "Codeshare": "yes",
+        "Flight": "LH8855",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "07:50",
+        "Destination": "Newark (EWR)",
+        "Codeshare": "yes",
+        "Flight": "SN8808",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:00",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "no",
+        "Flight": "4U2160",
+        "Carrier": "Germanwings"
+    },
+    {
+        "Arrival Time": "08:00",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "yes",
+        "Flight": "SN5352",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:00",
+        "Destination": "Paris (CDG)",
+        "Codeshare": "no",
+        "Flight": "ET704",
+        "Carrier": "Ethiopian Airlines"
+    },
+    {
+        "Arrival Time": "08:00",
+        "Destination": "Paris (CDG)",
+        "Codeshare": "yes",
+        "Flight": "KP1145",
+        "Carrier": "ASKY"
+    },
+    {
+        "Arrival Time": "08:05",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "U21533",
+        "Carrier": "easyJet"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "no",
+        "Flight": "FR2902",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Nantes (NTE)",
+        "Codeshare": "no",
+        "Flight": "SN3570",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Nantes (NTE)",
+        "Codeshare": "yes",
+        "Flight": "BM6570",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "no",
+        "Flight": "SN2640",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "yes",
+        "Flight": "LH5540",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:10",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "yes",
+        "Flight": "UA9952",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "no",
+        "Flight": "SN2592",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "EY7227",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "LH5572",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "TP7491",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "UA9920",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "no",
+        "Flight": "SN2816",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "yes",
+        "Flight": "UA9958",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Ljubljana (LJU)",
+        "Codeshare": "no",
+        "Flight": "JP376",
+        "Carrier": "Adria Airways"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Ljubljana (LJU)",
+        "Codeshare": "yes",
+        "Flight": "SK8930",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Ljubljana (LJU)",
+        "Codeshare": "yes",
+        "Flight": "SN6572",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "no",
+        "Flight": "SN2630",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:15",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "yes",
+        "Flight": "LH5586",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2726",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4564",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "no",
+        "Flight": "SN2060",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "BM6060",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "EY7260",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "LH5591",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "no",
+        "Flight": "BT601",
+        "Carrier": "Air Baltic"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "EY8077",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "IB356",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "RO9258",
+        "Carrier": "TAROM"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "SN4008",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Chisinau (KIV)",
+        "Codeshare": "no",
+        "Flight": "9U801",
+        "Carrier": "Air Moldova"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Billund (BLL)",
+        "Codeshare": "no",
+        "Flight": "SN2254",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:20",
+        "Destination": "Billund (BLL)",
+        "Codeshare": "yes",
+        "Flight": "EY7249",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "no",
+        "Flight": "OK630",
+        "Carrier": "CSA"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "yes",
+        "Flight": "DL8760",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "yes",
+        "Flight": "QS8630",
+        "Carrier": "SmartWings"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Paris (CDG)",
+        "Codeshare": "no",
+        "Flight": "SN3628",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "no",
+        "Flight": "SN2830",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "yes",
+        "Flight": "EY7242",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "yes",
+        "Flight": "TP7451",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "yes",
+        "Flight": "UA9970",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "no",
+        "Flight": "SN2050",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "BM6050",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "EY7230",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "LH5609",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "TG6505",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "UA9910",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1004",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "ET1559",
+        "Carrier": "Ethiopian Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "NH6169",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SA7836",
+        "Carrier": "South African Airways"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7016",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SQ2038",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "TG7696",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "08:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "UA9492",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2282",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7050",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "FR2918",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Marseille (MRS)",
+        "Codeshare": "no",
+        "Flight": "SN3604",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Marseille (MRS)",
+        "Codeshare": "yes",
+        "Flight": "EY7206",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Marseille (MRS)",
+        "Codeshare": "yes",
+        "Flight": "UA9946",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "SN3594",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "EY7244",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "UA9944",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SN2268",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "EY7228",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "HU8054",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:30",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "UA9912",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Venice (VCE)",
+        "Codeshare": "no",
+        "Flight": "SN3208",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Venice (VCE)",
+        "Codeshare": "yes",
+        "Flight": "UA9942",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "no",
+        "Flight": "SN2324",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "yes",
+        "Flight": "EY7257",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "yes",
+        "Flight": "TP7465",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "yes",
+        "Flight": "UA9916",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "AZ148",
+        "Carrier": "Alitalia"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "no",
+        "Flight": "SN2184",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "A33011",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "BM6184",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "HU8557",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "TG6501",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "08:35",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "UA9908",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Tallinn (TLL)",
+        "Codeshare": "no",
+        "Flight": "LO8175",
+        "Carrier": "LOT - Polish Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "no",
+        "Flight": "SN3716",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "yes",
+        "Flight": "EY7238",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "yes",
+        "Flight": "HU8550",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "yes",
+        "Flight": "TG6511",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "yes",
+        "Flight": "UA9954",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "SN3152",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "yes",
+        "Flight": "LX4575",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "yes",
+        "Flight": "UA9988",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "no",
+        "Flight": "SN2066",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "BM6066",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "LH5627",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:40",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "UA9926",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "SN3732",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "EY7256",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "HU8546",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "LH5667",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "TG6521",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "UA9956",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Toulouse (TLS)",
+        "Codeshare": "no",
+        "Flight": "SN3676",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Toulouse (TLS)",
+        "Codeshare": "yes",
+        "Flight": "EY7233",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Toulouse (TLS)",
+        "Codeshare": "yes",
+        "Flight": "UA9950",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "SN3188",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "HU8565",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "UA9938",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "no",
+        "Flight": "OU456",
+        "Carrier": "Croatia Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "SK9336",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "SN5502",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:45",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "UA7263",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:50",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "no",
+        "Flight": "SN2560",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:50",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "yes",
+        "Flight": "EY7209",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:50",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "yes",
+        "Flight": "UA9990",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:50",
+        "Destination": "Newcastle (NCL)",
+        "Codeshare": "no",
+        "Flight": "BM1101",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:50",
+        "Destination": "Newcastle (NCL)",
+        "Codeshare": "yes",
+        "Flight": "SN4412",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "SN2104",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "BM6104",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "HU8540",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "LH5599",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "UA9900",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "no",
+        "Flight": "SN2288",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "yes",
+        "Flight": "EY7208",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "yes",
+        "Flight": "UA9914",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "OS351",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "08:55",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "SN6002",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:05",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "no",
+        "Flight": "DL42",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "09:05",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "AF3667",
+        "Carrier": "Air France"
+    },
+    {
+        "Arrival Time": "09:05",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "KL6140",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "09:05",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "yes",
+        "Flight": "OK3013",
+        "Carrier": "CSA"
+    },
+    {
+        "Arrival Time": "09:10",
+        "Destination": "Bucharest (OTP)",
+        "Codeshare": "no",
+        "Flight": "RO371",
+        "Carrier": "TAROM"
+    },
+    {
+        "Arrival Time": "09:10",
+        "Destination": "Bucharest (OTP)",
+        "Codeshare": "yes",
+        "Flight": "SN4032",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:15",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "no",
+        "Flight": "AY811",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "09:15",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "yes",
+        "Flight": "IB7421",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "09:15",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "yes",
+        "Flight": "TP8341",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "09:15",
+        "Destination": "Basel,Switzerland/Mulhouse (BSL)",
+        "Codeshare": "no",
+        "Flight": "SN2702",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:15",
+        "Destination": "Basel,Switzerland/Mulhouse (BSL)",
+        "Codeshare": "yes",
+        "Flight": "LX4530",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Stockholm (BMA)",
+        "Codeshare": "no",
+        "Flight": "SN2310",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "no",
+        "Flight": "SK589",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "yes",
+        "Flight": "A33335",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "yes",
+        "Flight": "OU5627",
+        "Carrier": "Croatia Airlines"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "yes",
+        "Flight": "UA7020",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "09:20",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "no",
+        "Flight": "FR1452",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "09:25",
+        "Destination": "TelAviv-Yafo (TLV)",
+        "Codeshare": "no",
+        "Flight": "SN3294",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:25",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "FR7000",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "09:30",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "no",
+        "Flight": "LO235",
+        "Carrier": "LOT - Polish Airlines"
+    },
+    {
+        "Arrival Time": "09:30",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "yes",
+        "Flight": "UA6841",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "09:30",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "no",
+        "Flight": "EI630",
+        "Carrier": "Aer Lingus"
+    },
+    {
+        "Arrival Time": "09:30",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "yes",
+        "Flight": "BA8970",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2712",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "HU8566",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4552",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "UA9922",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Paris (CDG)",
+        "Codeshare": "no",
+        "Flight": "SN3632",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Paris (CDG)",
+        "Codeshare": "yes",
+        "Flight": "UA9948",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Leicestershire (EMA)",
+        "Codeshare": "no",
+        "Flight": "BM1233",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "09:40",
+        "Destination": "Leicestershire (EMA)",
+        "Codeshare": "yes",
+        "Flight": "SN4402",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "09:45",
+        "Destination": "Malaga (AGP)",
+        "Codeshare": "no",
+        "Flight": "VY2150",
+        "Carrier": "Vueling"
+    },
+    {
+        "Arrival Time": "09:45",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SK593",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "09:45",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "A33337",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "09:45",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "UA7031",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "09:55",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "HOP4312",
+        "Carrier": "HOP!"
+    },
+    {
+        "Arrival Time": "09:55",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "AF5355",
+        "Carrier": "Air France"
+    },
+    {
+        "Arrival Time": "10:00",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "SN3154",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "10:00",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "yes",
+        "Flight": "HU8048",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "10:00",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "yes",
+        "Flight": "UA9934",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "10:00",
+        "Destination": "Doha (DOH)",
+        "Codeshare": "no",
+        "Flight": "QR8245",
+        "Carrier": "Qatar Airways"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "no",
+        "Flight": "SN2580",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "HU8552",
+        "Carrier": "Hainan Airlines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "LH5562",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "TP7485",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "UA9918",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "UX1171",
+        "Carrier": "Air Europa"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "no",
+        "Flight": "KL1723",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "9W8552",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "CZ7821",
+        "Carrier": "China Southern Airlines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "DL9530",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "GA9220",
+        "Carrier": "Garuda Indonesia"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "KQ1723",
+        "Carrier": "Kenya Airways"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MF9363",
+        "Carrier": "Xiamen Airlines"
+    },
+    {
+        "Arrival Time": "10:05",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MU4093",
+        "Carrier": "China Eastern Airlines"
+    },
+    {
+        "Arrival Time": "10:10",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "FR2962",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "10:15",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "no",
+        "Flight": "SK4743",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "10:15",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "yes",
+        "Flight": "A33339",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "10:15",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "yes",
+        "Flight": "UA7026",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "10:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1008",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "10:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "AC9318",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "10:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7002",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "10:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "UA8819",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "10:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2284",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "10:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SA7838",
+        "Carrier": "South African Airways"
+    },
+    {
+        "Arrival Time": "10:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7052",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "10:30",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SQ2152",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "10:40",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "AZ156",
+        "Carrier": "Alitalia"
+    },
+    {
+        "Arrival Time": "10:40",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "CZ7372",
+        "Carrier": "China Southern Airlines"
+    },
+    {
+        "Arrival Time": "10:40",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "EY7028",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "10:45",
+        "Destination": "Istanbul (IST)",
+        "Codeshare": "no",
+        "Flight": "TK1937",
+        "Carrier": "Turkish Airlines"
+    },
+    {
+        "Arrival Time": "11:00",
+        "Destination": "Athens (ATH)",
+        "Codeshare": "no",
+        "Flight": "A3620",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "11:00",
+        "Destination": "Athens (ATH)",
+        "Codeshare": "yes",
+        "Flight": "SN6502",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "11:10",
+        "Destination": "TelAviv-Yafo (TLV)",
+        "Codeshare": "no",
+        "Flight": "LY331",
+        "Carrier": "El Al"
+    },
+    {
+        "Arrival Time": "11:10",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "SN2902",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "11:10",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "OS8171",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "11:10",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "TP7471",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "11:15",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "IB3206",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "11:15",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AA8782",
+        "Carrier": "American Airlines"
+    },
+    {
+        "Arrival Time": "11:15",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AY5628",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "11:15",
+        "Destination": "Moscow (SVO)",
+        "Codeshare": "no",
+        "Flight": "SU2168",
+        "Carrier": "Aeroflot"
+    },
+    {
+        "Arrival Time": "11:35",
+        "Destination": "Tunis (TUN)",
+        "Codeshare": "no",
+        "Flight": "TU788",
+        "Carrier": "Tunisair"
+    },
+    {
+        "Arrival Time": "11:40",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "SN3696",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "11:40",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "yes",
+        "Flight": "SQ2804",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "11:40",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "yes",
+        "Flight": "TG6509",
+        "Carrier": "Thai Airways International"
+    },
+    {
+        "Arrival Time": "11:50",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "FR2944",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "12:05",
+        "Destination": "Alicante (ALC)",
+        "Codeshare": "no",
+        "Flight": "FR2934",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "12:15",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "no",
+        "Flight": "SN2634",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:15",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "yes",
+        "Flight": "LH5542",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1010",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "A31428",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "12:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7018",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "UA9225",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "12:30",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "no",
+        "Flight": "SN2038",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:30",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "BM6038",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "12:30",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "LH5601",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:30",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "no",
+        "Flight": "SN2624",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:30",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "yes",
+        "Flight": "LH5582",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:35",
+        "Destination": "Malaga (AGP)",
+        "Codeshare": "no",
+        "Flight": "FR2924",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "12:35",
+        "Destination": "Berlin (SXF)",
+        "Codeshare": "no",
+        "Flight": "FR164",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "12:35",
+        "Destination": "Alicante (ALC)",
+        "Codeshare": "no",
+        "Flight": "JAF2712",
+        "Carrier": "Jetairfly"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2714",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4554",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2286",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "A31422",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "AC9324",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "12:40",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7054",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:45",
+        "Destination": "Dubai (DXB)",
+        "Codeshare": "no",
+        "Flight": "EK183",
+        "Carrier": "Emirates"
+    },
+    {
+        "Arrival Time": "12:45",
+        "Destination": "Dubai (DXB)",
+        "Codeshare": "yes",
+        "Flight": "QF8183",
+        "Carrier": "Qantas"
+    },
+    {
+        "Arrival Time": "12:45",
+        "Destination": "Porto (OPO)",
+        "Codeshare": "no",
+        "Flight": "FR2929",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "12:50",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "SN3176",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:50",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "no",
+        "Flight": "SN2056",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "12:50",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "BM6056",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "12:50",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "LH5611",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "12:55",
+        "Destination": "Strasbourg (SXB)",
+        "Codeshare": "no",
+        "Flight": "SN3654",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "no",
+        "Flight": "SN2582",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "LH5564",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Malaga (AGP)",
+        "Codeshare": "no",
+        "Flight": "JAF2068",
+        "Carrier": "Jetairfly"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "SN3588",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Kiev/Kyiv (KBP)",
+        "Codeshare": "no",
+        "Flight": "PS145",
+        "Carrier": "UIA"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Kiev/Kyiv (KBP)",
+        "Codeshare": "yes",
+        "Flight": "SN4016",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:00",
+        "Destination": "Kiev/Kyiv (KBP)",
+        "Codeshare": "yes",
+        "Flight": "TP8216",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "13:05",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "no",
+        "Flight": "SN2810",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:05",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SN2258",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:05",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "KM2283",
+        "Carrier": "Air Malta"
+    },
+    {
+        "Arrival Time": "13:10",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "BA396",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "13:10",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "AA6456",
+        "Carrier": "American Airlines"
+    },
+    {
+        "Arrival Time": "13:10",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "JL7769",
+        "Carrier": "JAL"
+    },
+    {
+        "Arrival Time": "13:10",
+        "Destination": "Nantes (NTE)",
+        "Codeshare": "no",
+        "Flight": "SN3564",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:10",
+        "Destination": "Nantes (NTE)",
+        "Codeshare": "yes",
+        "Flight": "BM6564",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "13:12",
+        "Destination": "Dallas (DFW)",
+        "Codeshare": "no",
+        "Flight": "SQC7969",
+        "Carrier": "Singapore Airlines Cargo"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "SN2094",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "AC6336",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "BM6094",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "LH5595",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "SQ2824",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "UA9980",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "no",
+        "Flight": "SN2174",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "A33048",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "13:15",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "BM6174",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "13:30",
+        "Destination": "Billund (BLL)",
+        "Codeshare": "no",
+        "Flight": "SN2250",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:35",
+        "Destination": "Venice (VCE)",
+        "Codeshare": "no",
+        "Flight": "SN3202",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:35",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "SN3148",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:35",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "yes",
+        "Flight": "LX4571",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "13:40",
+        "Destination": "Chicago (ORD)",
+        "Codeshare": "no",
+        "Flight": "Y87486",
+        "Carrier": "Yangtze River Express"
+    },
+    {
+        "Arrival Time": "13:45",
+        "Destination": "Toulouse (TLS)",
+        "Codeshare": "no",
+        "Flight": "SN3668",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:50",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "no",
+        "Flight": "SN2824",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:50",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "no",
+        "Flight": "SN2314",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "13:50",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "yes",
+        "Flight": "TP7463",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "14:00",
+        "Destination": "Dallas (DFW)",
+        "Codeshare": "no",
+        "Flight": "SQ7969",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "14:00",
+        "Destination": "Cairo (CAI)",
+        "Codeshare": "no",
+        "Flight": "MS725",
+        "Carrier": "EgyptAir"
+    },
+    {
+        "Arrival Time": "14:00",
+        "Destination": "Cairo (CAI)",
+        "Codeshare": "yes",
+        "Flight": "SN5602",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "no",
+        "Flight": "KL1725",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "9W8553",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "CZ7759",
+        "Carrier": "China Southern Airlines"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "DL9531",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "GA9242",
+        "Carrier": "Garuda Indonesia"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MF9713",
+        "Carrier": "Xiamen Airlines"
+    },
+    {
+        "Arrival Time": "14:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MU4095",
+        "Carrier": "China Eastern Airlines"
+    },
+    {
+        "Arrival Time": "14:20",
+        "Destination": "Marseille (MRS)",
+        "Codeshare": "no",
+        "Flight": "SN3598",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:20",
+        "Destination": "Marseille (MRS)",
+        "Codeshare": "yes",
+        "Flight": "UA9932",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "14:20",
+        "Destination": "Lisbon (LIS)",
+        "Codeshare": "no",
+        "Flight": "FR2926",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "14:20",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "OS359",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "14:20",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "SN6008",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1012",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "14:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "AC9320",
+        "Carrier": "Air Canada"
+    },
+    {
+        "Arrival Time": "14:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7004",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "UA9354",
+        "Carrier": "United Airlines"
+    },
+    {
+        "Arrival Time": "14:30",
+        "Destination": "Istanbul (IST)",
+        "Codeshare": "no",
+        "Flight": "TK1943",
+        "Carrier": "Turkish Airlines"
+    },
+    {
+        "Arrival Time": "14:30",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "no",
+        "Flight": "LX780",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "14:30",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "SN5108",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:30",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "SQ2980",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "14:30",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "AZ150",
+        "Carrier": "Alitalia"
+    },
+    {
+        "Arrival Time": "14:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "IB3202",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "14:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AA8696",
+        "Carrier": "American Airlines"
+    },
+    {
+        "Arrival Time": "14:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AY5570",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "14:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "BT5174",
+        "Carrier": "Air Baltic"
+    },
+    {
+        "Arrival Time": "14:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "LA6130",
+        "Carrier": "LATAM Airlines"
+    },
+    {
+        "Arrival Time": "14:45",
+        "Destination": "Stockholm (BMA)",
+        "Codeshare": "no",
+        "Flight": "SN2304",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:50",
+        "Destination": "Nice (NCE)",
+        "Codeshare": "no",
+        "Flight": "SN3618",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:50",
+        "Destination": "Nice (NCE)",
+        "Codeshare": "yes",
+        "Flight": "A33020",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "14:50",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "SN3722",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "14:50",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "LH5661",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "15:15",
+        "Destination": "Bilbao (BIO)",
+        "Codeshare": "no",
+        "Flight": "SN3714",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "15:15",
+        "Destination": "Tokyo (NRT)",
+        "Codeshare": "no",
+        "Flight": "NH231",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "15:20",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "no",
+        "Flight": "OZ587",
+        "Carrier": "Asiana Airlines"
+    },
+    {
+        "Arrival Time": "15:30",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "SN3158",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "15:30",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "yes",
+        "Flight": "NH5170",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "15:30",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "yes",
+        "Flight": "SQ2848",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "15:35",
+        "Destination": "Malaga (AGP)",
+        "Codeshare": "no",
+        "Flight": "SN3736",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "15:35",
+        "Destination": "Malaga (AGP)",
+        "Codeshare": "yes",
+        "Flight": "NH5136",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "15:35",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "no",
+        "Flight": "OZ942",
+        "Carrier": "Asiana Airlines"
+    },
+    {
+        "Arrival Time": "15:40",
+        "Destination": "Casablanca (CMN)",
+        "Codeshare": "no",
+        "Flight": "AT832",
+        "Carrier": "Royal Air Maroc"
+    },
+    {
+        "Arrival Time": "15:40",
+        "Destination": "Casablanca (CMN)",
+        "Codeshare": "yes",
+        "Flight": "SN4056",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "15:45",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "BA402",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "15:45",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "AA6466",
+        "Carrier": "American Airlines"
+    },
+    {
+        "Arrival Time": "15:55",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "no",
+        "Flight": "FR1454",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "16:05",
+        "Destination": "Strasbourg (SXB)",
+        "Codeshare": "no",
+        "Flight": "SN3662",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:10",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "U22797",
+        "Carrier": "easyJet"
+    },
+    {
+        "Arrival Time": "16:15",
+        "Destination": "Tenerife (TFS)",
+        "Codeshare": "no",
+        "Flight": "JAF2114",
+        "Carrier": "Jetairfly"
+    },
+    {
+        "Arrival Time": "16:15",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2288",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "16:15",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7056",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:15",
+        "Destination": "Venice (TSF)",
+        "Codeshare": "no",
+        "Flight": "FR2936",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Bacau (BCM)",
+        "Codeshare": "no",
+        "Flight": "0B2923",
+        "Carrier": "Blue Air"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "no",
+        "Flight": "SN2046",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "LH5605",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "NH5128",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "no",
+        "Flight": "4U2162",
+        "Carrier": "Germanwings"
+    },
+    {
+        "Arrival Time": "16:20",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "yes",
+        "Flight": "SN5354",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:35",
+        "Destination": "Lisbon (LIS)",
+        "Codeshare": "no",
+        "Flight": "SN3816",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:35",
+        "Destination": "Lisbon (LIS)",
+        "Codeshare": "yes",
+        "Flight": "NH5126",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "16:35",
+        "Destination": "Lisbon (LIS)",
+        "Codeshare": "yes",
+        "Flight": "TP6774",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "16:40",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SK1593",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "16:40",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "A33344",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "16:42",
+        "Destination": "NewYork (JFK)",
+        "Codeshare": "no",
+        "Flight": "OZ941",
+        "Carrier": "Asiana Airlines"
+    },
+    {
+        "Arrival Time": "16:50",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "U21535",
+        "Carrier": "easyJet"
+    },
+    {
+        "Arrival Time": "16:55",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "OS353",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "16:55",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "SN6004",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "16:55",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "TP8720",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "17:00",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "HOP4316",
+        "Carrier": "HOP!"
+    },
+    {
+        "Arrival Time": "17:00",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "AF5357",
+        "Carrier": "Air France"
+    },
+    {
+        "Arrival Time": "17:00",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2290",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "17:00",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7058",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "17:10",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "no",
+        "Flight": "AY813",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "17:10",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "yes",
+        "Flight": "TP8357",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "17:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "no",
+        "Flight": "SK1589",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "17:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "yes",
+        "Flight": "A33345",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "17:20",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "yes",
+        "Flight": "OU5631",
+        "Carrier": "Croatia Airlines"
+    },
+    {
+        "Arrival Time": "17:25",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "BA398",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "17:25",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "JL7771",
+        "Carrier": "JAL"
+    },
+    {
+        "Arrival Time": "17:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1016",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "17:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "JJ6042",
+        "Carrier": "LATAM Airlines Brasil"
+    },
+    {
+        "Arrival Time": "17:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7008",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Athens (ATH)",
+        "Codeshare": "no",
+        "Flight": "A3622",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Athens (ATH)",
+        "Codeshare": "yes",
+        "Flight": "SK8460",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Athens (ATH)",
+        "Codeshare": "yes",
+        "Flight": "SN6524",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "no",
+        "Flight": "OU4456",
+        "Carrier": "Croatia Airlines"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "SK9338",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "SN5506",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Zagreb (ZAG)",
+        "Codeshare": "yes",
+        "Flight": "TP6866",
+        "Carrier": "TAP Portugal"
+    },
+    {
+        "Arrival Time": "17:30",
+        "Destination": "Istanbul (IST)",
+        "Codeshare": "no",
+        "Flight": "TK1939",
+        "Carrier": "Turkish Airlines"
+    },
+    {
+        "Arrival Time": "17:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "UX1173",
+        "Carrier": "Air Europa"
+    },
+    {
+        "Arrival Time": "17:35",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "EY4359",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "17:35",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "AZ160",
+        "Carrier": "Alitalia"
+    },
+    {
+        "Arrival Time": "17:35",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "EY7029",
+        "Carrier": "Etihad Airways"
+    },
+    {
+        "Arrival Time": "17:35",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "SV6233",
+        "Carrier": "Saudia"
+    },
+    {
+        "Arrival Time": "17:40",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "no",
+        "Flight": "KL1731",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "17:40",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "9W8554",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "17:40",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "DL9314",
+        "Carrier": "Delta Air Lines"
+    },
+    {
+        "Arrival Time": "17:40",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "KQ1731",
+        "Carrier": "Kenya Airways"
+    },
+    {
+        "Arrival Time": "17:50",
+        "Destination": "Nice (NCE)",
+        "Codeshare": "no",
+        "Flight": "SN3622",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "17:50",
+        "Destination": "Nice (NCE)",
+        "Codeshare": "yes",
+        "Flight": "NH5130",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "17:50",
+        "Destination": "Alicante (ALC)",
+        "Codeshare": "no",
+        "Flight": "VY1332",
+        "Carrier": "Vueling"
+    },
+    {
+        "Arrival Time": "17:50",
+        "Destination": "Alicante (ALC)",
+        "Codeshare": "yes",
+        "Flight": "IB5388",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "17:55",
+        "Destination": "Tenerife (TFS)",
+        "Codeshare": "no",
+        "Flight": "FQ1509",
+        "Carrier": "Thomas Cook Belgium"
+    },
+    {
+        "Arrival Time": "17:55",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "FR2948",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "18:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "IB3214",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "18:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AA8747",
+        "Carrier": "American Airlines"
+    },
+    {
+        "Arrival Time": "18:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "AY5630",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "18:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "LA8004",
+        "Carrier": "LATAM Airlines"
+    },
+    {
+        "Arrival Time": "18:15",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "FR2922",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "18:15",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "no",
+        "Flight": "LX782",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "18:15",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "SN5112",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "no",
+        "Flight": "AY817",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "yes",
+        "Flight": "JL6833",
+        "Carrier": "JAL"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "no",
+        "Flight": "SK4745",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "no",
+        "Flight": "BT603",
+        "Carrier": "Air Baltic"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "JU8692",
+        "Carrier": "Air Serbia"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "RO9260",
+        "Carrier": "TAROM"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Riga (RIX)",
+        "Codeshare": "yes",
+        "Flight": "SN4012",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Nuremberg (NUE)",
+        "Codeshare": "no",
+        "Flight": "SN2668",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:20",
+        "Destination": "Nuremberg (NUE)",
+        "Codeshare": "yes",
+        "Flight": "LH5538",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "18:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1018",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "18:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "NH6171",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "18:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7010",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:30",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2720",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:30",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4558",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "18:30",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "NH5140",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "18:35",
+        "Destination": "PuertodelRosario (FUE)",
+        "Codeshare": "no",
+        "Flight": "FQ1532",
+        "Carrier": "Thomas Cook Belgium"
+    },
+    {
+        "Arrival Time": "18:35",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "no",
+        "Flight": "SN2064",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:35",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "BM6064",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "18:35",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "LH5625",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "18:35",
+        "Destination": "Edinburgh (EDI)",
+        "Codeshare": "yes",
+        "Flight": "NH5138",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "18:40",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "no",
+        "Flight": "LO233",
+        "Carrier": "LOT - Polish Airlines"
+    },
+    {
+        "Arrival Time": "18:40",
+        "Destination": "Ljubljana (LJU)",
+        "Codeshare": "no",
+        "Flight": "JP394",
+        "Carrier": "Adria Airways"
+    },
+    {
+        "Arrival Time": "18:40",
+        "Destination": "Ljubljana (LJU)",
+        "Codeshare": "yes",
+        "Flight": "SN6576",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:40",
+        "Destination": "Bucharest (OTP)",
+        "Codeshare": "no",
+        "Flight": "RO373",
+        "Carrier": "TAROM"
+    },
+    {
+        "Arrival Time": "18:40",
+        "Destination": "Bucharest (OTP)",
+        "Codeshare": "yes",
+        "Flight": "SN4036",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "18:55",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "no",
+        "Flight": "EI638",
+        "Carrier": "Aer Lingus"
+    },
+    {
+        "Arrival Time": "18:55",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "yes",
+        "Flight": "BA8974",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Malta (MLA)",
+        "Codeshare": "no",
+        "Flight": "KM420",
+        "Carrier": "Air Malta"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Malta (MLA)",
+        "Codeshare": "yes",
+        "Flight": "SN4002",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Basel,Switzerland/Mulhouse (BSL)",
+        "Codeshare": "no",
+        "Flight": "SN2706",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Basel,Switzerland/Mulhouse (BSL)",
+        "Codeshare": "yes",
+        "Flight": "LX4536",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Basel,Switzerland/Mulhouse (BSL)",
+        "Codeshare": "yes",
+        "Flight": "NH5158",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:00",
+        "Destination": "Cincinnati (CVG)",
+        "Codeshare": "no",
+        "Flight": "K4977",
+        "Carrier": "Kalitta Air"
+    },
+    {
+        "Arrival Time": "19:10",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "no",
+        "Flight": "OK636",
+        "Carrier": "CSA"
+    },
+    {
+        "Arrival Time": "19:10",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "yes",
+        "Flight": "QS8636",
+        "Carrier": "SmartWings"
+    },
+    {
+        "Arrival Time": "19:15",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "no",
+        "Flight": "LX788",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "19:15",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "NH6757",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:15",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "SN5114",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:15",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "OS355",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "19:15",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "SN6006",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:20",
+        "Destination": "Rabat (RBA)",
+        "Codeshare": "no",
+        "Flight": "AT830",
+        "Carrier": "Royal Air Maroc"
+    },
+    {
+        "Arrival Time": "19:20",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "AZ154",
+        "Carrier": "Alitalia"
+    },
+    {
+        "Arrival Time": "19:25",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2292",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "19:25",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "NH6085",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:25",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7060",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Turin (TRN)",
+        "Codeshare": "no",
+        "Flight": "SN3196",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Turin (TRN)",
+        "Codeshare": "yes",
+        "Flight": "NH5122",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Vilnius (VNO)",
+        "Codeshare": "no",
+        "Flight": "SN2372",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Vilnius (VNO)",
+        "Codeshare": "yes",
+        "Flight": "BT5371",
+        "Carrier": "Air Baltic"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Vilnius (VNO)",
+        "Codeshare": "yes",
+        "Flight": "LH5623",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Sofia (SOF)",
+        "Codeshare": "no",
+        "Flight": "FB407",
+        "Carrier": "Bulgaria Air"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Berlin (SXF)",
+        "Codeshare": "no",
+        "Flight": "U24707",
+        "Carrier": "easyJet"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Newcastle (NCL)",
+        "Codeshare": "no",
+        "Flight": "BM1107",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "19:30",
+        "Destination": "Newcastle (NCL)",
+        "Codeshare": "yes",
+        "Flight": "SN4416",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:35",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "no",
+        "Flight": "SN2556",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:35",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "yes",
+        "Flight": "NH5146",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:35",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "no",
+        "Flight": "SN2812",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:35",
+        "Destination": "Prague (PRG)",
+        "Codeshare": "yes",
+        "Flight": "NH5144",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "no",
+        "Flight": "4U2164",
+        "Carrier": "Germanwings"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "yes",
+        "Flight": "NH5020",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Stuttgart (STR)",
+        "Codeshare": "yes",
+        "Flight": "SN5356",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Budapest (BUD)",
+        "Codeshare": "no",
+        "Flight": "SN2826",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SN2260",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:40",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "NH5148",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "no",
+        "Flight": "SN2588",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "LH5568",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "NH5150",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "no",
+        "Flight": "SN2058",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "BM6058",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Bristol (BRS)",
+        "Codeshare": "yes",
+        "Flight": "LH5613",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Bologna (BLQ)",
+        "Codeshare": "no",
+        "Flight": "SN3126",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Bologna (BLQ)",
+        "Codeshare": "yes",
+        "Flight": "NH5142",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:45",
+        "Destination": "Malta (MLA)",
+        "Codeshare": "no",
+        "Flight": "FR2905",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "SN3182",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "yes",
+        "Flight": "NH5156",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "SN3592",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "NH5154",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "SN2906",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "NH5152",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "OS8173",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Tallinn (TLL)",
+        "Codeshare": "no",
+        "Flight": "LO8177",
+        "Carrier": "LOT - Polish Airlines"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SK597",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "19:50",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "yes",
+        "Flight": "JP9135",
+        "Carrier": "Adria Airways"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "no",
+        "Flight": "SN2284",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Oslo (OSL)",
+        "Codeshare": "yes",
+        "Flight": "NH5168",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "no",
+        "Flight": "SN2048",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Birmingham (BHX)",
+        "Codeshare": "yes",
+        "Flight": "LH5555",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Stockholm (ARN)",
+        "Codeshare": "no",
+        "Flight": "SK2591",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "no",
+        "Flight": "SN2178",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "BM6178",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "19:55",
+        "Destination": "Manchester (MAN)",
+        "Codeshare": "yes",
+        "Flight": "NH5162",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "SN2096",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "BM6096",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "LH5571",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "NH5166",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "SQ2826",
+        "Carrier": "Singapore Airlines"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "no",
+        "Flight": "SN2318",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:00",
+        "Destination": "Gothenburg (GOT)",
+        "Codeshare": "yes",
+        "Flight": "NH5164",
+        "Carrier": "ANA"
+    },
+    {
+        "Arrival Time": "20:05",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2722",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:05",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4562",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "20:05",
+        "Destination": "Toulouse (TLS)",
+        "Codeshare": "no",
+        "Flight": "SN3670",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "SN3728",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:05",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "LH5663",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "no",
+        "Flight": "FR2908",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "no",
+        "Flight": "SN2628",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Hamburg (HAM)",
+        "Codeshare": "yes",
+        "Flight": "LH5580",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Bremen (BRE)",
+        "Codeshare": "no",
+        "Flight": "SN2596",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Bremen (BRE)",
+        "Codeshare": "yes",
+        "Flight": "LH5592",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "no",
+        "Flight": "SN2638",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:10",
+        "Destination": "Hanover (HAJ)",
+        "Codeshare": "yes",
+        "Flight": "LH5544",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "20:15",
+        "Destination": "LasPalmas (LPA)",
+        "Codeshare": "no",
+        "Flight": "SN3784",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:15",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "VY8990",
+        "Carrier": "Vueling"
+    },
+    {
+        "Arrival Time": "20:15",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "yes",
+        "Flight": "BA8058",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "20:15",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "yes",
+        "Flight": "IB5793",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "20:20",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "no",
+        "Flight": "SN3150",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "20:20",
+        "Destination": "Milan (LIN)",
+        "Codeshare": "yes",
+        "Flight": "LX4573",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "20:40",
+        "Destination": "London (LHR)",
+        "Codeshare": "no",
+        "Flight": "BA404",
+        "Carrier": "British Airways"
+    },
+    {
+        "Arrival Time": "20:40",
+        "Destination": "London (LHR)",
+        "Codeshare": "yes",
+        "Flight": "JL7705",
+        "Carrier": "JAL"
+    },
+    {
+        "Arrival Time": "20:45",
+        "Destination": "Lisbon (LIS)",
+        "Codeshare": "no",
+        "Flight": "FR2932",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "21:05",
+        "Destination": "Berlin (SXF)",
+        "Codeshare": "no",
+        "Flight": "FR166",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "21:25",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "no",
+        "Flight": "HOP4318",
+        "Carrier": "HOP!"
+    },
+    {
+        "Arrival Time": "21:25",
+        "Destination": "Lyon (LYS)",
+        "Codeshare": "yes",
+        "Flight": "AF5359",
+        "Carrier": "Air France"
+    },
+    {
+        "Arrival Time": "21:35",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SK2593",
+        "Carrier": "SAS"
+    },
+    {
+        "Arrival Time": "21:40",
+        "Destination": "Helsinki (HEL)",
+        "Codeshare": "no",
+        "Flight": "AY815",
+        "Carrier": "Finnair"
+    },
+    {
+        "Arrival Time": "21:40",
+        "Destination": "Leicestershire (EMA)",
+        "Codeshare": "no",
+        "Flight": "BM1237",
+        "Carrier": "bmi Regional"
+    },
+    {
+        "Arrival Time": "21:40",
+        "Destination": "Leicestershire (EMA)",
+        "Codeshare": "yes",
+        "Flight": "SN4406",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "21:55",
+        "Destination": "Rome (FCO)",
+        "Codeshare": "no",
+        "Flight": "FR2984",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "21:55",
+        "Destination": "Warsaw (WAW)",
+        "Codeshare": "no",
+        "Flight": "LO231",
+        "Carrier": "LOT - Polish Airlines"
+    },
+    {
+        "Arrival Time": "21:55",
+        "Destination": "Istanbul (IST)",
+        "Codeshare": "no",
+        "Flight": "TK1941",
+        "Carrier": "Turkish Airlines"
+    },
+    {
+        "Arrival Time": "22:00",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "IB3208",
+        "Carrier": "Iberia"
+    },
+    {
+        "Arrival Time": "22:00",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "yes",
+        "Flight": "JL6945",
+        "Carrier": "JAL"
+    },
+    {
+        "Arrival Time": "22:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "no",
+        "Flight": "SN2590",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "22:05",
+        "Destination": "Berlin (TXL)",
+        "Codeshare": "yes",
+        "Flight": "LH5560",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "no",
+        "Flight": "KL1733",
+        "Carrier": "KLM"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "9W8555",
+        "Carrier": "Jet Airways (India)"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "AM6542",
+        "Carrier": "Aeromexico"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "CZ7720",
+        "Carrier": "China Southern Airlines"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "KQ1733",
+        "Carrier": "Kenya Airways"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MF9715",
+        "Carrier": "Xiamen Airlines"
+    },
+    {
+        "Arrival Time": "22:10",
+        "Destination": "Amsterdam (AMS)",
+        "Codeshare": "yes",
+        "Flight": "MU4061",
+        "Carrier": "China Eastern Airlines"
+    },
+    {
+        "Arrival Time": "22:15",
+        "Destination": "Dublin (DUB)",
+        "Codeshare": "no",
+        "Flight": "FR1456",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "22:15",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "FR2964",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "22:20",
+        "Destination": "Stockholm (BMA)",
+        "Codeshare": "no",
+        "Flight": "SN2308",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "22:20",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "no",
+        "Flight": "LX770",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "22:20",
+        "Destination": "Zurich (ZRH)",
+        "Codeshare": "yes",
+        "Flight": "SN5102",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "no",
+        "Flight": "LH1024",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "A31434",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "CA6129",
+        "Carrier": "Air China"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Frankfurt (FRA)",
+        "Codeshare": "yes",
+        "Flight": "SN7014",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "no",
+        "Flight": "SN2724",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "22:25",
+        "Destination": "Geneva (GVA)",
+        "Codeshare": "yes",
+        "Flight": "LX4550",
+        "Carrier": "SWISS"
+    },
+    {
+        "Arrival Time": "22:30",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "FR2939",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "22:30",
+        "Destination": "Moscow (SVO)",
+        "Codeshare": "no",
+        "Flight": "SU2618",
+        "Carrier": "Aeroflot"
+    },
+    {
+        "Arrival Time": "22:30",
+        "Destination": "Milan (MXP)",
+        "Codeshare": "no",
+        "Flight": "SN3160",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "23:10",
+        "Destination": "Copenhagen (CPH)",
+        "Codeshare": "no",
+        "Flight": "SN2264",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "23:15",
+        "Destination": "Madrid (MAD)",
+        "Codeshare": "no",
+        "Flight": "FR2952",
+        "Carrier": "Ryanair"
+    },
+    {
+        "Arrival Time": "23:15",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "no",
+        "Flight": "SN2908",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "23:15",
+        "Destination": "Vienna (VIE)",
+        "Codeshare": "yes",
+        "Flight": "OS8175",
+        "Carrier": "Austrian"
+    },
+    {
+        "Arrival Time": "23:20",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "no",
+        "Flight": "LH2294",
+        "Carrier": "Lufthansa"
+    },
+    {
+        "Arrival Time": "23:20",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "A31424",
+        "Carrier": "Aegean Airlines"
+    },
+    {
+        "Arrival Time": "23:20",
+        "Destination": "Munich (MUC)",
+        "Codeshare": "yes",
+        "Flight": "SN7062",
+        "Carrier": "Brussels Airlines"
+    },
+    {
+        "Arrival Time": "23:25",
+        "Destination": "Barcelona (BCN)",
+        "Codeshare": "no",
+        "Flight": "SN3706",
+        "Carrier": "Brussels Airlines"
+    }
+]
