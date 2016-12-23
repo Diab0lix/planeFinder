@@ -70,7 +70,7 @@ class planeFinder(App):
                 self.confirm.text = '[color=90EE90]Flight added to the database[/color]'
                 self.eraseAll() # On efface les champs de texte
             except:
-                self.confirm.text = '[color=f44336]Erreur lors de la sauvegarde[/color]'
+                self.confirm.text = '[color=f44336]Error while saving database[/color]'
 
         else:
             newFlight['Departure Time'] = self.time.text
@@ -84,7 +84,7 @@ class planeFinder(App):
                 self.eraseAll()
 
             except:
-                self.confirm.text ='[color=f44336]Erreur lors de la sauvegarde[/color]'
+                self.confirm.text ='[color=f44336]Error while saving database[/color]'
 
     # Fonction qui efface les champs de textes, utilisé après une sauvegarde
     def eraseAll(self):
