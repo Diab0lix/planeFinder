@@ -1,4 +1,5 @@
 import json
+import os
 from kivy.app import App
 from kivy.config import Config
 from kivy.uix.gridlayout import GridLayout
@@ -11,6 +12,8 @@ class planeFinder(App):
     def build(self):
         self.title = 'Plane Finder' # Titre de la fenêtre
         grid = GridLayout(cols=2) # On veut un layout style grille avec 2 colonnes
+        
+        self.ROOT = os.path.abspath(os.getcwd()) # retourne le dossier où se trouve ce fichier
 
         # Déclaration des boutons, labels et champs de texte
         self.arrival = ToggleButton(text='Arrival', group='type', state='down')
@@ -60,7 +63,7 @@ class planeFinder(App):
             self.arrivals.append(newFlight)
 
             try:
-                with open('../static/arrivals.json', 'w') as arrivals_file:
+                with open(os.path.join(self.ROOT, 'static/arrivals.json'), 'w') as arrivals_file:
                     json.dump(self.arrivals, arrivals_file, indent=4)
 
                 # Changement du texte pour confirmer la sauvegarde
@@ -74,7 +77,7 @@ class planeFinder(App):
             self.departures.append(newFlight)
 
             try:
-                with open('../static/departures.json', 'w') as departures_file:
+                with open(os.path.join(self.ROOT, 'static/departures.json'), 'w') as departures_file:
                     json.dump(self.arrivals, departures_file, indent=4)
             
                 self.confirm.text = '[color=90EE90]Flight added to the database[/color]'
@@ -94,7 +97,7 @@ class planeFinder(App):
     # Fonctions qui servent à ouvrir les BDD
     def openDepartures(self):
         try:
-            with open('../static/departures.json', 'r') as departuresFile:
+            with open(os.path.join(self.ROOT, 'static/departures.json'), 'r') as departuresFile:
                 departures = json.load(departuresFile)
                 return departures
         except:
@@ -103,7 +106,7 @@ class planeFinder(App):
 
     def openArrivals(self):
         try:
-            with open('../static/arrivals.json', 'r') as arrivalsFile:
+            with open(os.path.join(self.ROOT, 'static/arrivals.json'), 'r') as arrivalsFile:
                 arrivals = json.load(arrivalsFile)
                 return arrivals
         except:
